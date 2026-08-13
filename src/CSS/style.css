@@ -1,18 +1,21 @@
-.background {
-  background-color: rgb(0, 200, 300);
-  border-style: dotted;
-  border-width: 5px;
-  border-color: #c8250c;
-  padding: 2px 10px;
-  border-radius: 20ch;
+#heading {
+  background-color: #000020;
+  color: aliceblue;
+  border-radius: 20px 10px;
+  padding-bottom: 5px;
+  font-family: monospace;
 }
 
-.text {
-  text-align: center;
-  background-color: rgb(500, 200, 2200);
-  border-style: groove;
-  border-width: 5px;
-  font-style: italic;
-  font-variant: small-caps;
-  font-weight: 500;
+body {
+  background-color: rgb(15, 147, 103);
+}
+
+.texts {
+  color: aliceblue;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  border: 5px solid #000020;
+  border-radius: 20px 20px;
+  background-image: url(https://img.magnific.com/fotos-premium/fundo-de-tecnologia-abstrata-de-codigo-de-programacao-do-desenvolvedor-de-software-e-script-de-computador_34663-31.jpg?semt=ais_hybrid&w=740&q=80);
+  background-size: cover;
+  padding: 2px;
 }
