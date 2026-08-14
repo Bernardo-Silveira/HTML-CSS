@@ -9,10 +9,17 @@
 .texts {
   color: aliceblue;
   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-  border: 4px solid #000020;
+  border: 3px solid black;
+  border-top: 4px solid #06aa34;
   border-radius: 2.5ch 2.5ch 7.5ch 2.5ch;
   background-image: url(../img/background.jpg);
   background-size: cover;
   background-repeat: no-repeat;
   padding: 3px;
+}
+
+
+
+.image:hover {
+  opacity: 0.8;
 }
