@@ -34,7 +34,7 @@ Throughout this project, I practiced:
 ## Project Structure
 
 ```text
-Test-of-HTML-and-CSS/
+HTML-CSS/
 ├── src/
 │   ├── HTML/
 │   │   └── index.html
