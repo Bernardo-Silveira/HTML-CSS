@@ -53,13 +53,13 @@ Test-of-HTML-and-CSS/
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/Bernardo-Silveira/Test-of-HTML-and-CSS.git
+git clone https://github.com/Bernardo-Silveira/HTML-CSS.git
 ```
 
 2. Navigate to the project folder:
 
 ```bash
-cd Test-of-HTML-and-CSS
+cd HTML-CSS
 ```
 
 3. Open the following file in your browser:
